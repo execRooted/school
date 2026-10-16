@@ -430,7 +430,7 @@ section h2 {
 
 .card ul.features {
   list-style: none;
-  margin-top: auto;
+  margin-top: 1rem;
 }
 
 .card ul.features li {
