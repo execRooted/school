@@ -220,6 +220,13 @@ h1 {
   animation: blink 0.8s infinite;
 }
 
+@media (max-width: 640px) {
+  .typewriter {
+    border-right: none;
+    animation: none;
+  }
+}
+
 @keyframes blink {
   0%, 100% { border-color: var(--primary); }
   50% { border-color: transparent; }
