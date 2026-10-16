@@ -209,10 +209,9 @@ h1 {
 }
 
 .typewriter {
-  display: block;
+  display: inline-block;
   white-space: normal;
   max-width: 100%;
-  width: 100%;
   text-align: center;
   word-wrap: break-word;
   overflow-wrap: break-word;
